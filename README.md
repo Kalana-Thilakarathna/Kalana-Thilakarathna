@@ -73,10 +73,6 @@ I'm Kalana, a passionate developer with expertise in MERN stack, PHP frameworks,
 ### ⚡ Fun fact:
 When I'm not coding or problem-solving, I love exploring the mountains of Matale, which is my hometown near Kandy! 🏞️
 
----
-
-### 😄 Pronouns:
-He/Him
 
 ---
 
