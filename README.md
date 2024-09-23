@@ -64,7 +64,7 @@ I'm Kalana, a passionate developer with expertise in MERN stack, PHP frameworks,
 ---
 
 ### 📫 How to reach me:
-- **Email:** [kalana.dev@example.com](mailto:kalana.dev@example.com)
+- **Email:** [kalanab.thilakarathna@gmail.com](kalanab.thilakarathna@gmail.com)
 - **LinkedIn:** [Kalana Thilakarathna](https://www.linkedin.com/in/kalana-thilakarathna/)
 - **GitHub:** [Kalana-Thilakarathna](https://github.com/Kalana-Thilakarathna)
 
