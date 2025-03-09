@@ -1,79 +1,84 @@
-# 👋 Hi there, I'm Kalana B. Thilakarathna!
+# 👋 Hey, I'm Kalana B. Thilakarathna!
 
-🚀 **Full-Stack Developer | Innovator | Problem Solver | Lifelong Learner** 🚀
+🚀 **Full-Stack Developer | Microservices Enthusiast | Tech Innovator | Lifelong Learner** 🚀
 
-I'm Kalana, a passionate developer with expertise in MERN stack, PHP frameworks, and C# Windows applications. When I'm not coding, you can find me diving deep into research, exploring cutting-edge technologies, or working on groundbreaking projects to make the world a better place through tech.
+I’m a final-year Software Technology undergrad at the University of Sri Jayewardenepura (graduating April 2025), passionate about crafting scalable solutions with MERN, PHP, Python, and now Spring Boot + Microservices. Whether it’s automating processes or solving real-world problems, I thrive on turning ideas into code that makes an impact.
 
 ---
 
-### 🔧 My Tech Stack:
+### 🛠️ My Tech Arsenal
 <p align="left">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter" />
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-### 🔭 I’m currently working on...
-- **National Instrument Database (NID)** - a web app supporting researchers, innovators, and undergraduates across Sri Lanka.
-- **Grant Management Information System (GMIS)** - Automating the grant allocation process with smart, data-driven modules.
+### 🔭 Current Projects
+- **Grant Management System** (National Science Foundation)  
+  Automating grant allocation with PHP, CodeIgniter, and Ajax-powered real-time features.
+- **National Instrument Database**  
+  Centralizing research resources across Sri Lanka using PHP and responsive design.
+- **Tomato Disease Identificator**  
+  A Python/FastAPI app with TensorFlow for farmers—mobile expansion in progress!
 
 ---
 
-### 🌱 I’m currently learning...
-- 🧠 Deep Learning & AI
-- 🌐 Advanced TypeScript & React Native
-- 🖥️ .NET Framework (because growth never stops!)
+### 🌱 Recently Mastered
+- 🌀 **Microservices Architecture** – Building modular, scalable systems.
+- 🌿 **Spring Boot** – Crafting robust Java backends.
+- 🐳 **Docker** – Containerizing apps for seamless deployment.
 
 ---
 
-### 👯 I’m looking to collaborate on...
-- 🔥 Revolutionary web apps using MERN or PHP frameworks
-- 📱 Innovative mobile applications using React Native & Expo
-- 🎓 Research projects predicting software project success with data mining!
+### 🎯 Looking to Collaborate On
+- 🌐 Full-stack web apps (MERN, Spring Boot, or PHP)
+- 🤖 AI-driven solutions for real-world problems
+- 📱 Cross-platform mobile apps with React Native
 
 ---
 
-### 🤔 I’m looking for help with...
-- Collaborations on advanced research topics using AI and data science.
+### 💡 Ask Me About
+- How I optimized internship coordination with a MERN-stack app.
+- Turning tomato leaf scans into disease diagnoses with Python.
+- Microservices vs. monolithic architecture—let’s debate!
 
 ---
 
-### 💬 Ask me about...
-- 💻 Anything MERN stack-related, I’ve got you covered!
-- 🚀 CodeIgniter magic? No worries, I'm your guy.
-- 📊 Data-driven decisions, automations, and making things work smarter.
+### 📬 Connect With Me
+- **Email:** [kalanab.thilakarathna@gmail.com](mailto:kalanab.thilakarathna@gmail.com)  
+- **LinkedIn:** [Kalana Thilakarathna](https://www.linkedin.com/in/kalana-thilakarathna/)  
+- **GitHub:** [Kalana-Thilakarathna](https://github.com/Kalana-Thilakarathna)  
+- **Portfolio:** [kalanathilake.is-a.dev](https://kalanathilake.is-a.dev/)  
 
 ---
 
-### 📫 How to reach me:
-- **Email:** [kalanab.thilakarathna@gmail.com](kalanab.thilakarathna@gmail.com)
-- **LinkedIn:** [Kalana Thilakarathna](https://www.linkedin.com/in/kalana-thilakarathna/)
-- **GitHub:** [Kalana-Thilakarathna](https://github.com/Kalana-Thilakarathna)
+### ⚡ Fun Fact
+I’m from Matale, Sri Lanka—think mountains, tea, and endless inspiration. When I’m not coding, I’m hiking or dreaming up the next big tech idea!
 
 ---
 
-### ⚡ Fun fact:
-When I'm not coding or problem-solving, I love exploring the mountains of Matale, which is my hometown near Kandy! 🏞️
-
-
----
-
-**Let’s create something extraordinary together! 🚀**
+**Ready to build something epic? Let’s connect! 🚀**
